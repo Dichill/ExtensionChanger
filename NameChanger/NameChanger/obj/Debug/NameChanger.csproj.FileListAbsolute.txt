@@ -1,0 +1,7 @@
+D:\Visual Studio\NameChanger\NameChanger\bin\Debug\NameChanger.exe.config
+D:\Visual Studio\NameChanger\NameChanger\bin\Debug\NameChanger.exe
+D:\Visual Studio\NameChanger\NameChanger\bin\Debug\NameChanger.pdb
+D:\Visual Studio\NameChanger\NameChanger\obj\Debug\NameChanger.csprojAssemblyReference.cache
+D:\Visual Studio\NameChanger\NameChanger\obj\Debug\NameChanger.csproj.CoreCompileInputs.cache
+D:\Visual Studio\NameChanger\NameChanger\obj\Debug\NameChanger.exe
+D:\Visual Studio\NameChanger\NameChanger\obj\Debug\NameChanger.pdb
